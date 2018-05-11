@@ -1,0 +1,39 @@
+Partlist
+
+Exported from rgbamp.brd at 10/05/18 19:37
+
+EAGLE Version 6.1.0 Copyright (c) 1988-2012 CadSoft
+
+Assembly variant: 
+
+Part     Value               Package      Library        Position (mm)         Orientation
+
+B        WIREPADSMD2,54-5,08 SMD2,54-5,08 wirepad        (5.08 43.18)          R270
+BO       WIREPADSMD2,54-5,08 SMD2,54-5,08 wirepad        (24.13 44.45)         R90
+C1       10u                 PANASONIC_B  resistor       (6.35 10.16)          R180
+C2       220u                PANASONIC_D  resistor       (20.32 10.16)         R180
+C3       10u                 PANASONIC_B  resistor       (6.35 24.13)          R180
+C4       220u                PANASONIC_D  resistor       (20.32 24.13)         R180
+C5       10u                 PANASONIC_B  resistor       (6.35 38.1)           R180
+C6       220u                PANASONIC_D  resistor       (20.32 38.1)          R180
+G        WIREPADSMD2,54-5,08 SMD2,54-5,08 wirepad        (5.08 29.21)          R270
+GND      WIREPADSMD2,54-5,08 SMD2,54-5,08 wirepad        (5.08 5.08)           R90
+GO       WIREPADSMD2,54-5,08 SMD2,54-5,08 wirepad        (24.13 29.21)         R90
+Q1       BC817-16LT1SMD      SOT23-BEC    transistor-npn (13.97 11.43)         R270
+Q2       BC817-16LT1SMD      SOT23-BEC    transistor-npn (13.97 25.4)          R270
+Q3       BC817-16LT1SMD      SOT23-BEC    transistor-npn (13.97 39.37)         R270
+R        WIREPADSMD2,54-5,08 SMD2,54-5,08 wirepad        (5.08 15.24)          R270
+R1       10k                 M1206        resistor       (10.16 13.97)         R90
+R2       10k                 M1206        resistor       (10.16 6.35)          R90
+R3       10                  M1206        resistor       (15.24 15.24)         R180
+R4       75                  M1206        resistor       (13.97 6.35)          R90
+R5       10k                 M1206        resistor       (10.16 27.94)         R90
+R6       10k                 M1206        resistor       (10.16 20.32)         R90
+R7       10                  M1206        resistor       (15.24 29.21)         R180
+R8       75                  M1206        resistor       (13.97 20.32)         R90
+R9       10k                 M1206        resistor       (10.16 41.91)         R90
+R10      10k                 M1206        resistor       (10.16 34.29)         R90
+R11      10                  M1206        resistor       (15.24 43.18)         R180
+R12      75                  M1206        resistor       (13.97 34.29)         R90
+RO       WIREPADSMD2,54-5,08 SMD2,54-5,08 wirepad        (24.13 16.51)         R90
+VCC      WIREPADSMD2,54-5,08 SMD2,54-5,08 wirepad        (24.13 5.08)          R90
